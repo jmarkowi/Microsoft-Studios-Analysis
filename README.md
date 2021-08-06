@@ -45,6 +45,10 @@ This analysis leads to three recommendations for launching Microsoft Studios:
 - **Maximize ROI by releasing movies in May, June, and October** We recommend planning to release in months when ROI is the highest. Notably, in May and June Worldwide ROI for Top Movies is ~9.5 and just above 4.6 for relevant movies. As well, in October, ROI peaks at ~9.9 for Top movies and in November, ROI peaks at 4.8 for relevant movies.
 - **Prioritize production of dramas and comedies.** Although documentaries are very popular among all movies, these are rarely financially successful. Other genres more prevalent among top movies include action/adventure and horror/thriller/mystery.
 
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./microsoft_movie_needs_analysis.ipynb) or review this [presentation](./microsoft_movie_needs_presentation.pdf)
+
 ```
 ├── Code
 │   ├── Eric––Project_1_Workbook.ipynb
@@ -54,7 +58,7 @@ This analysis leads to three recommendations for launching Microsoft Studios:
 ├── Data
 ├── Images
 ├── microsoft_movie_needs_analysis.ipynb
-├── Microsoft_Movie_Needs_Presentation.pdf
+├── microsoft_movie_needs_presentation.pdf
 └── README.md
 ```
 
