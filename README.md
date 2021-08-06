@@ -1,16 +1,12 @@
-![Viz1]./filepath
-
 # Microsoft Studios Analysis
 
-**Authors**: [Jesse Markowitz, Lorela Blaka, Eric Denbin]
+**Authors**: [Lorela Blaka, Eric Denbin, Jesse Markowitz]
 
 ## Overview
 
 This project analyzes movie data in order to provide recommendations for Microsoft, which is opening a new production studio. We look for patterns and trends in return on investment (ROI) compared to budget and over time for both a general subset of movies as well as a selection of the most financially successful movies ("top movies"). We also examine the distribution of movie genres among all movies and the subset of top movies.
 
 ## Business Problem
-
-![img]()
 
 We address the following business problems:
 
@@ -57,7 +53,6 @@ This analysis leads to three recommendations for launching Microsoft Studios:
 │   
 ├── Data
 ├── Images
-├── __init__.py
 ├── microsoft_movie_needs_analysis.ipynb
 ├── Microsoft_Movie_Needs_Presentation.pdf
 └── README.md
