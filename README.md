@@ -25,7 +25,7 @@ The main metric we used was return on investment (ROI), which we calculated as (
 
 ## Results
 
-There is a positive relationship between budget and the percentage of movies with a positive return, increasing to over 90% in the range of 100 - 200 million dollars, and 95% in the range of 200 - 300 million dollars.
+There is a positive relationship between budget and the percentage of movies with a positive return, increasing to 93% in the range of 100 - 200 million dollars, and 97% in the range of 200 - 300 million dollars.
 
 ![budget_vs_positive_roi](./Images/budget_and_positive_roi.png)
 
@@ -41,7 +41,7 @@ Dramas, comedies, and action movies are the most common genres among successful 
 
 This analysis leads to three recommendations for launching Microsoft Studios:
 
-- **Budget in the ranges of $100 million–$300 million to have the best chance at getting a positive ROI.** In the $100-200m and $200-300m range, the proportion of movies with a positive return are highest, at 93% and 97%, respectively.
+- **Budget in the range of $100 million–$300 million to have the best chance at getting a positive ROI.** In the $100-200m and $200-300m range, the proportion of movies with a positive return are highest, at 93% and 97%, respectively.
 - **Maximize ROI by releasing movies in May, June, and October** We recommend planning to release in months when ROI is the highest. Notably, in May and June Worldwide ROI for Top Movies is ~9.5 and just above 4.6 for relevant movies. As well, in October, ROI peaks at ~9.9 for Top movies and in November, ROI peaks at 4.8 for relevant movies.
 - **Prioritize production of dramas and comedies.** Although documentaries are very popular among all movies, these are rarely financially successful. Other genres more prevalent among top movies include action/adventure and horror/thriller/mystery.
 
