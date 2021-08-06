@@ -1,6 +1,6 @@
 # Microsoft Studios Analysis
 
-**Authors**: [Lorela Blaka, Eric Denbin, Jesse Markowitz]
+**Authors**: Lorela Blaka, Eric Denbin, Jesse Markowitz
 
 ## Overview
 
